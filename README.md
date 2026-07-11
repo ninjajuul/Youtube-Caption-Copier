@@ -24,7 +24,7 @@ A simple Python script that fetches captions (transcripts) from YouTube videos. 
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/youtube-caption-copier.git
+git clone https://github.com/ninjajuul/Youtube-Caption-Copier
 cd youtube-caption-copier
 ```
 
