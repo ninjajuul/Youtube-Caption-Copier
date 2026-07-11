@@ -25,7 +25,7 @@ Clone this repository:
 
 ```bash
 git clone https://github.com/ninjajuul/Youtube-Caption-Copier
-cd youtube-caption-copier
+cd Youtube-Caption-Copier
 ```
 
 Create a virtual environment (recommended):
