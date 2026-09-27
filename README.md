@@ -98,15 +98,6 @@ Simply select the text in your terminal and copy it.
 * Private, deleted, age-restricted, or region-restricted videos may not work.
 * If no captions are available, the script will display an error message.
 
-## Possible Improvements
-
-* Automatically copy the transcript to your clipboard.
-* Save transcripts as `.txt` files.
-* Export to Markdown or PDF.
-* Download captions in multiple languages.
-* Batch process multiple YouTube URLs.
-* Add a graphical user interface (GUI).
-
 ## Disclaimer
 
 This project only retrieves publicly available YouTube transcripts. It does not generate captions or bypass any YouTube restrictions. Please respect copyright laws and YouTube's Terms of Service when using downloaded transcripts.
